@@ -2,13 +2,11 @@
 -- ER/Studio Data Architect SQL Code Generation
 -- Project :      DATA MODEL
 --
--- Date Created : Monday, March 07, 2022 19:16:46
+-- Date Created : Monday, March 07, 2022 19:26:25
 -- Target DBMS : Oracle 19c
 --
---Original Text
--- 
 
--- More text here
+-- 
 -- TABLE: Categories 
 --
 
